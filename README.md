@@ -23,9 +23,10 @@ Estou em transição de carreira sou Tecnico Instrumentista e Estou Dedicando ao
 ### Tecnologia que uso no meu dia a dia
 
 <div style = "display: incline_block"><br/>
-<img alin= "center" alt= "python" src=https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white/>
-  <img alin= "center" alt= "java" src=https://img.shields.io/badge/Java-30A3DC?style=for-the-badge&logo=java&logoColor=white/>
-<img alin= "center"alt = "android" src= https://img.shields.io/badge/Android-6DB33F?style=for-the-badge&logo=android&logoColor=white /><img alin= "center" alt= "markadow" src=https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white />
+<img alin= "center" alt= "Kotlin" src=https://img.shields.io/badge/kotlin-EDBB43?style=for-the-badge&logo=kotlin&logoColor=white/>
+<img alin= "center" alt= "Python" src=https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white/>
+  <img alin= "center" alt= "Java" src=https://img.shields.io/badge/Java-30A3DC?style=for-the-badge&logo=java&logoColor=white/>
+<img alin= "center"alt = "Android" src= https://img.shields.io/badge/Android-6DB33F?style=for-the-badge&logo=android&logoColor=white /><img alin= "center" alt= "markadow" src=https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white />
 </div>
 
 
