@@ -19,7 +19,9 @@ Estou em transição de carreira, de Técnico Instrumentista para desenvolvedor.
 
 [![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=1985Valdemar&theme=dracula&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1985Valdemar&theme=vue)
+
+![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1985Valdemar&theme=dracula)
+
 
 
 <div style="display: inline_block"><br/>
@@ -29,6 +31,8 @@ Estou em transição de carreira, de Técnico Instrumentista para desenvolvedor.
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
  
 </div>
+
+
 
 
 
