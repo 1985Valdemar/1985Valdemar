@@ -14,6 +14,9 @@ Estou em transição de carreira, de Técnico Instrumentista para desenvolvedor.
 
 ### 🛠️ Tecnologias que uso no meu dia a dia
 
+[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=1985Valdemar&theme=dracula&row=1&column=7&cache=12345)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 [![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=1985Valdemar&theme=dracula&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1985Valdemar&theme=vue)
