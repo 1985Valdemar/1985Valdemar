@@ -12,13 +12,12 @@ Estou em transição de carreira, de Técnico Instrumentista para desenvolvedor.
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=1985Valdemar&bg_color=000&border_color=30A3DC&title_color=30A3DC&text_color=FFF)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=1985Valdemar&theme=solarized-dark&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-
 ### 🛠️ Tecnologias que uso no meu dia a dia
 
-[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=1985Valdemar&theme=dracula&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=1985Valdemar&theme=dracula&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1985Valdemar&theme=vue) 
+![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1985Valdemar&theme=vue)
+
 
 <div style="display: inline_block"><br/>
   
