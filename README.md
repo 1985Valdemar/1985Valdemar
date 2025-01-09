@@ -1,4 +1,4 @@
-### Olá! Eu sou o Valdemar 👋
+### Olá! Eu sou o Valdemar 🧙‍♂️👋
 
 #### Em transição de carreira: de Técnico Instrumentista para Desenvolvedor! 🚀
 
@@ -28,20 +28,6 @@
 #### **Estatísticas GitHub**:
 ![Valdemar GitHub stats](https://github-readme-stats.vercel.app/api?username=1985Valdemar&show_icons=true&theme=radical&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)
 
-#### **Tecnologias que uso**:
-[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=1985Valdemar&theme=onestar&row=1&column=7&cache=123456)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=1985Valdemar&theme=dracula&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 🧩 Projetos e Contribuições:
-
-#### **Repositórios Populares**:
-![GitHub Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repositories?username=1985Valdemar&theme=dracula)
-
-#### **Atividade no GitHub**:
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/activities?username=1985Valdemar&theme=dracula)
-
 ---
 
 ### ⚡ Um pouco sobre mim:
@@ -50,7 +36,11 @@
 - Focado em resolver problemas através de **desenvolvimento de software**.
 - Acredito no poder da **programação** para transformar vidas e empresas.
 
-### 🔥 Vamos conversar e construir soluções juntos!
+### 🔥 Vamos Construir soluções juntos!
+## 🌱 Aprendizado Contínuo
+- Participando do desafio "100 Days of Code".
+- Fazendo cursos na plataformas: DIO, Zuplae, Udemy.
+- Trabalhando em projetos open source no GitHub.
 
 ---
 
